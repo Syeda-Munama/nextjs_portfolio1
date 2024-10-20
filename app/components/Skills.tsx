@@ -4,11 +4,9 @@ import {
   FaCss3,
   FaReact,
   FaNode,
-  FaGithub,
   FaPython,
   FaGit,
   FaFigma,
-  FaJava,
   FaJsSquare,
 } from "react-icons/fa";
 
